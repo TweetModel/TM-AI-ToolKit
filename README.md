@@ -26,6 +26,6 @@ https://github.com/user-attachments/assets/9b93668e-766e-438e-97fc-c5a3e293970c
     </tr>
     <tr>
         <td>Download : (Windows)</td>
-        <td>https://1ink.cc/TM3Dai</td>
+        <td>https://1ink.cc/TM3D</td>
     </tr>
 </table>
